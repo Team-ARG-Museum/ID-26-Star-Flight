@@ -1,9 +1,9 @@
 # Star Flight
-![Image](http://www.team-arg.org/masterfiles/team-arg-sfl/images/banner-ID-26.png)
+![Image](https://raw.githubusercontent.com/Team-ARG-Museum/ID-14-Star-Flight/master/art/banner-ID-14.png)
 
-Star Flight : http://www.team-arg.org/sfl-manual.html  
-Download stable Arduboy versions :  http://www.team-arg.org/sfl-downloads.html  
-MADE by TEAM a.r.g. : http://www.team-arg.org/more-about.html
+Star Flight :  
+Download stable Arduboy versions :  https://github.com/Team-ARG-Museum/ID-14-Star-Flight/releases/latest  
+MADE by TEAM a.r.g. : https://team-arg-museum.github.io/
 
 2016 - JO3RI - PIQUESEL
 
